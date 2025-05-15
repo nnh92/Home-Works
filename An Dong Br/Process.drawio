@@ -277,7 +277,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MI-MHxJHhFcNUqdOQOmD-1" value="KQ" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
-          <mxGeometry x="240" y="1210" width="160" height="190" as="geometry" />
+          <mxGeometry x="240" y="1210" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="MI-MHxJHhFcNUqdOQOmD-2" value="SLS1 tại dầm 2 trụ T10, T11: 252MPa" style="text;html=1;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="MI-MHxJHhFcNUqdOQOmD-1" vertex="1">
           <mxGeometry y="26" width="160" height="44" as="geometry" />
