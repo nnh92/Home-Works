@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.6">
   <diagram name="Page-1" id="b520641d-4fe3-3701-9064-5fc419738815">
-    <mxGraphModel dx="903" dy="1462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="768" dy="1726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -241,7 +241,7 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="620" y="690" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1420" y="2533" />
+              <mxPoint x="1420" y="2548" />
               <mxPoint x="1420" y="280" />
               <mxPoint x="780" y="280" />
             </Array>
@@ -494,10 +494,10 @@
           <mxGeometry y="26" width="180" height="84" as="geometry" />
         </mxCell>
         <mxCell id="AnLu8fSaxLKLmFbyE1cN-1" value="Sửa đổi 20250520" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#f8cecc;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="1185" y="2460" width="180" height="130" as="geometry" />
+          <mxGeometry x="1185" y="2460" width="180" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="AnLu8fSaxLKLmFbyE1cN-2" value="+ Thay đổi trình tự thi công:&lt;div&gt;1. Thi công dầm dọc, dầm ngang, dầm dọc phụ.&lt;/div&gt;&lt;div&gt;2. Căng cáp :Khoảng 50t&lt;/div&gt;&lt;div&gt;3. Tháo đà giáo thi công&lt;/div&gt;&lt;div&gt;4. Lắp dựng bản mặt cầu&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="AnLu8fSaxLKLmFbyE1cN-1" vertex="1">
-          <mxGeometry y="26" width="180" height="94" as="geometry" />
+        <mxCell id="AnLu8fSaxLKLmFbyE1cN-2" value="+ Thay đổi trình tự thi công:&lt;div&gt;1. Thi công dầm dọc, dầm ngang, dầm dọc phụ.&lt;/div&gt;&lt;div&gt;2. Căng cáp :Khoảng 50t&lt;/div&gt;&lt;div&gt;3. Tháo đà giáo thi công&lt;/div&gt;&lt;div&gt;4. Lắp dựng bản mặt cầu&lt;/div&gt;&lt;div&gt;+ Thay đổi chiều dày bản bê tông: 300mm→250mm&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="AnLu8fSaxLKLmFbyE1cN-1" vertex="1">
+          <mxGeometry y="26" width="180" height="124" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
