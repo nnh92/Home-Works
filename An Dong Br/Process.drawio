@@ -237,13 +237,12 @@
         <mxCell id="eAJpKgocKo00yRRnLbiQ-2" value="&lt;div&gt;Các update ngày 12052025:&lt;/div&gt;&lt;div&gt;+ Tĩnh tải dải đều: Bề rộng tính PL 5m→4.3m.&lt;/div&gt;&lt;div&gt;+ Thay đổi trình tự đổ bê tông ( Chỉ đổ bê tông tới gối)&lt;/div&gt;&lt;div&gt;+ Thêm 1 số đà giáo đỡ dầm.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="eAJpKgocKo00yRRnLbiQ-1" vertex="1">
           <mxGeometry y="26" width="260" height="94" as="geometry" />
         </mxCell>
-        <mxCell id="eAJpKgocKo00yRRnLbiQ-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="FXNhzEx6ZpdATngYeKaY-12" target="ZcKWtI1Hsa9g-kHbRSaE-38" edge="1">
+        <mxCell id="eAJpKgocKo00yRRnLbiQ-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="d7y5ZlwVaBhikPxvO31W-10" target="ZcKWtI1Hsa9g-kHbRSaE-38" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="620" y="690" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="690" y="2948" />
-              <mxPoint x="690" y="3080" />
-              <mxPoint x="1420" y="3080" />
+              <mxPoint x="555" y="3330" />
+              <mxPoint x="1420" y="3330" />
               <mxPoint x="1420" y="280" />
               <mxPoint x="780" y="280" />
             </Array>
@@ -551,6 +550,9 @@
         <mxCell id="d7y5ZlwVaBhikPxvO31W-2" value="US vòm hơi lớn chút: 213&lt;div&gt;US dầm dọc số 5:210&lt;/div&gt;&lt;div&gt;Còn lại OK,&lt;/div&gt;&lt;div&gt;2 bó cáp ngoài cùng 25 tao, còn lại 24 tao&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="d7y5ZlwVaBhikPxvO31W-1">
           <mxGeometry y="26" width="180" height="144" as="geometry" />
         </mxCell>
+        <mxCell id="d7y5ZlwVaBhikPxvO31W-12" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="d7y5ZlwVaBhikPxvO31W-4" target="d7y5ZlwVaBhikPxvO31W-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="d7y5ZlwVaBhikPxvO31W-4" value="Sửa đổi 20250525" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#f8cecc;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="465" y="3080" width="180" height="90" as="geometry" />
         </mxCell>
@@ -560,8 +562,14 @@
         <mxCell id="d7y5ZlwVaBhikPxvO31W-7" value="Test tháo bỏ hết ĐG" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#f8cecc;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="765" y="2850" width="180" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="d7y5ZlwVaBhikPxvO31W-8" value="+ Thay đổi trình tự thi công:&lt;div&gt;Giống THN là tháo bỏ đà giáo dần dần kết hợp với căng cáp dây văng&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="d7y5ZlwVaBhikPxvO31W-7">
-          <mxGeometry y="26" width="180" height="74" as="geometry" />
+        <mxCell id="d7y5ZlwVaBhikPxvO31W-8" value="+ Thay đổi trình tự thi công:&lt;div&gt;Giống THN là tháo bỏ đà giáo dần dần kết hợp với căng cáp dây văng&lt;/div&gt;&lt;div&gt;KQ: Tính toán ra nguyên nhân do KC không đối xứng&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="d7y5ZlwVaBhikPxvO31W-7">
+          <mxGeometry y="26" width="180" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="d7y5ZlwVaBhikPxvO31W-10" value="Sửa đổi 20250526" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#f8cecc;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="465" y="3210" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="d7y5ZlwVaBhikPxvO31W-11" value="&lt;div&gt;+ Khống chế CV sao cho ko sinh ra My&lt;/div&gt;&lt;div&gt;+ Độ cứng đà giáo 1e6-&amp;gt; 1e5&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="d7y5ZlwVaBhikPxvO31W-10">
+          <mxGeometry y="26" width="180" height="54" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
