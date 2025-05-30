@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.1.1">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.0.9">
   <diagram name="Page-1" id="b520641d-4fe3-3701-9064-5fc419738815">
-    <mxGraphModel dx="1580" dy="1778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1760" dy="3187" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -148,6 +148,9 @@
         <mxCell id="ZcKWtI1Hsa9g-kHbRSaE-49" value="Các thông số đầu vào, tổ hợp, in biểu đồ: OK" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="ZcKWtI1Hsa9g-kHbRSaE-38" vertex="1">
           <mxGeometry y="110" width="200" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="jVrLA1miX4F0RIQfp13S-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;" edge="1" parent="1" source="ZcKWtI1Hsa9g-kHbRSaE-66" target="jVrLA1miX4F0RIQfp13S-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ZcKWtI1Hsa9g-kHbRSaE-66" value="Model cuối" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e1d5e7;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="1075" y="430" width="200" height="80" as="geometry" />
         </mxCell>
@@ -247,14 +250,12 @@
         <mxCell id="eAJpKgocKo00yRRnLbiQ-2" value="&lt;div&gt;Các update ngày 12052025:&lt;/div&gt;&lt;div&gt;+ Tĩnh tải dải đều: Bề rộng tính PL 5m→4.3m.&lt;/div&gt;&lt;div&gt;+ Thay đổi trình tự đổ bê tông ( Chỉ đổ bê tông tới gối)&lt;/div&gt;&lt;div&gt;+ Thêm 1 số đà giáo đỡ dầm.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="eAJpKgocKo00yRRnLbiQ-1" vertex="1">
           <mxGeometry y="26" width="260" height="94" as="geometry" />
         </mxCell>
-        <mxCell id="eAJpKgocKo00yRRnLbiQ-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="Dr7hD4C3cRa3OCk2qTIt-1" target="ZcKWtI1Hsa9g-kHbRSaE-66" edge="1">
+        <mxCell id="eAJpKgocKo00yRRnLbiQ-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="jVrLA1miX4F0RIQfp13S-9" target="jVrLA1miX4F0RIQfp13S-23" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="620" y="690" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="555" y="3540" />
-              <mxPoint x="1420" y="3540" />
-              <mxPoint x="1420" y="280" />
-              <mxPoint x="1175" y="280" />
+              <mxPoint x="1810" y="3723" />
+              <mxPoint x="1810" y="495" />
             </Array>
             <mxPoint x="550" y="3460" as="sourcePoint" />
           </mxGeometry>
@@ -570,10 +571,10 @@
         <mxCell id="d7y5ZlwVaBhikPxvO31W-8" value="+ Thay đổi trình tự thi công:&lt;div&gt;Giống THN là tháo bỏ đà giáo dần dần kết hợp với căng cáp dây văng&lt;/div&gt;&lt;div&gt;KQ: Tính toán ra nguyên nhân do KC không đối xứng&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="d7y5ZlwVaBhikPxvO31W-7" vertex="1">
           <mxGeometry y="26" width="180" height="104" as="geometry" />
         </mxCell>
-        <mxCell id="Dr7hD4C3cRa3OCk2qTIt-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d7y5ZlwVaBhikPxvO31W-10" target="Dr7hD4C3cRa3OCk2qTIt-1">
+        <mxCell id="Dr7hD4C3cRa3OCk2qTIt-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="d7y5ZlwVaBhikPxvO31W-10" target="Dr7hD4C3cRa3OCk2qTIt-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Dr7hD4C3cRa3OCk2qTIt-4" value="Gửi cho tvtk ngày 20250529- File 4. RM 20250527&lt;div&gt;US 2 bên vòm đã bằng nhau, chuyển vị đã gần bằng nhau&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Dr7hD4C3cRa3OCk2qTIt-3">
+        <mxCell id="Dr7hD4C3cRa3OCk2qTIt-4" value="Gửi cho tvtk ngày 20250529- File 4. RM 20250527&lt;div&gt;US 2 bên vòm đã bằng nhau, chuyển vị đã gần bằng nhau&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Dr7hD4C3cRa3OCk2qTIt-3" vertex="1" connectable="0">
           <mxGeometry x="0.3143" y="1" relative="1" as="geometry">
             <mxPoint x="-1" y="-12" as="offset" />
           </mxGeometry>
@@ -584,11 +585,63 @@
         <mxCell id="d7y5ZlwVaBhikPxvO31W-11" value="&lt;div&gt;+ Khống chế CV sao cho ko sinh ra My&lt;/div&gt;&lt;div&gt;+ Độ cứng đà giáo 1e6-&amp;gt; 1e5&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="d7y5ZlwVaBhikPxvO31W-10" vertex="1">
           <mxGeometry y="26" width="180" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="Dr7hD4C3cRa3OCk2qTIt-1" value="Sửa đổi 20250530" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#f8cecc;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="jVrLA1miX4F0RIQfp13S-3" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="Dr7hD4C3cRa3OCk2qTIt-1" target="jVrLA1miX4F0RIQfp13S-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jVrLA1miX4F0RIQfp13S-22" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;" edge="1" parent="1" source="Dr7hD4C3cRa3OCk2qTIt-1" target="jVrLA1miX4F0RIQfp13S-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660" y="3640" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="680" y="3415" />
+              <mxPoint x="680" y="3723" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dr7hD4C3cRa3OCk2qTIt-1" value="Sửa đổi 20250530" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#f8cecc;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="465" y="3360" width="180" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="Dr7hD4C3cRa3OCk2qTIt-2" value="Thay đổi lại tải trọng gió, &lt;br&gt;Cường độ gió giống gió dọc&lt;br&gt;+ Gió ngang = 25% gió dọc&lt;br&gt;&lt;div&gt;→ gió ngang = Gió dọc&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Dr7hD4C3cRa3OCk2qTIt-1">
+        <mxCell id="Dr7hD4C3cRa3OCk2qTIt-2" value="Thay đổi lại tải trọng gió, &lt;br&gt;Cường độ gió giống gió dọc&lt;br&gt;+ Gió ngang = 25% gió dọc&lt;br&gt;&lt;div&gt;→ gió ngang = Gió dọc&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Dr7hD4C3cRa3OCk2qTIt-1" vertex="1">
           <mxGeometry y="26" width="180" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="jVrLA1miX4F0RIQfp13S-6" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="jVrLA1miX4F0RIQfp13S-1" target="jVrLA1miX4F0RIQfp13S-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jVrLA1miX4F0RIQfp13S-1" value="Lk chân vòm BT" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#ffe6cc;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="765" y="3360" width="180" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="jVrLA1miX4F0RIQfp13S-2" value="Thay đổi LK chân vòm BT theo ý TK do: Lệch tâm?&lt;div&gt;Chuyển từ lệch tâm&lt;/div&gt;&lt;div&gt;→ spring&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="jVrLA1miX4F0RIQfp13S-1">
+          <mxGeometry y="26" width="180" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="jVrLA1miX4F0RIQfp13S-4" value="Gửi KQ" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#ffe6cc;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="720" y="3510" width="270" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="jVrLA1miX4F0RIQfp13S-5" value="1. An Bien Br 20250529 - Spring.tcl&lt;div&gt;File chưa cập nhật gió, đã update spring→ So sánh spring&lt;/div&gt;&lt;div&gt;2. An Bien Br 20250530 - Spring.tcl&lt;/div&gt;&lt;div&gt;Đã update cả gió và spring&lt;/div&gt;" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="jVrLA1miX4F0RIQfp13S-4">
+          <mxGeometry y="26" width="270" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="jVrLA1miX4F0RIQfp13S-8" value="Lk chân vòm BT" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#ffe6cc;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="755" y="3660" width="180" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="jVrLA1miX4F0RIQfp13S-9" value="Thay đổi LK chân vòm BT theo ý TK do: Lệch tâm?&lt;div&gt;Chuyển từ lệch tâm&lt;/div&gt;&lt;div&gt;→ spring&lt;/div&gt;" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="jVrLA1miX4F0RIQfp13S-8">
+          <mxGeometry y="26" width="180" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="jVrLA1miX4F0RIQfp13S-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jVrLA1miX4F0RIQfp13S-5" target="jVrLA1miX4F0RIQfp13S-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1590" y="1370" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1710" y="3578" />
+              <mxPoint x="1710" y="469" />
+            </Array>
+            <mxPoint x="1530" y="6930" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jVrLA1miX4F0RIQfp13S-12" value="Report" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e1d5e7;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="430" width="200" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="jVrLA1miX4F0RIQfp13S-13" value="2050529" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="jVrLA1miX4F0RIQfp13S-12">
+          <mxGeometry y="26" width="200" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="jVrLA1miX4F0RIQfp13S-23" value="2050529" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="jVrLA1miX4F0RIQfp13S-12">
+          <mxGeometry y="52" width="200" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
