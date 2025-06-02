@@ -699,10 +699,19 @@
             <mxPoint x="76" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="tjO_JxrPeB7VJwAWp4ab-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tjO_JxrPeB7VJwAWp4ab-1" target="tjO_JxrPeB7VJwAWp4ab-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="tjO_JxrPeB7VJwAWp4ab-1" value="Sửa 20250602" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#f8cecc;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="980" y="3900" width="210" height="90" as="geometry" />
         </mxCell>
         <mxCell id="tjO_JxrPeB7VJwAWp4ab-2" value="Thay đổi 2 liên kết vòm xuống bệ:&lt;div&gt;Lệch tâm → Spring 1e9&lt;/div&gt;&lt;div&gt;An Bien 20250602&lt;/div&gt;" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="tjO_JxrPeB7VJwAWp4ab-1">
+          <mxGeometry y="26" width="210" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="tjO_JxrPeB7VJwAWp4ab-4" value="Sửa 20250602" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#f8cecc;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="690" y="3900" width="210" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="tjO_JxrPeB7VJwAWp4ab-5" value="Thay cách khai báo làn xe:&lt;div&gt;&amp;nbsp;Dầm ngang → Dầm dọc&lt;/div&gt;&lt;div&gt;để so sánh với a Trà và Khánh&lt;/div&gt;" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="tjO_JxrPeB7VJwAWp4ab-4">
           <mxGeometry y="26" width="210" height="54" as="geometry" />
         </mxCell>
       </root>
