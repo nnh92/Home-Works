@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.1">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.1.1">
   <diagram name="Page-1" id="b520641d-4fe3-3701-9064-5fc419738815">
-    <mxGraphModel dx="621" dy="1836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1896" dy="1913" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -633,7 +633,7 @@
         <mxCell id="jVrLA1miX4F0RIQfp13S-2" value="Thay đổi LK chân vòm BT theo ý TK do: Lệch tâm?&lt;div&gt;Chuyển từ lệch tâm&lt;/div&gt;&lt;div&gt;→ spring&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="jVrLA1miX4F0RIQfp13S-1" vertex="1">
           <mxGeometry y="26" width="180" height="74" as="geometry" />
         </mxCell>
-        <mxCell id="zg0vOwM_v1v85YaqkH0q-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="zg0vOwM_v1v85YaqkH0q-1" target="zg0vOwM_v1v85YaqkH0q-2">
+        <mxCell id="zg0vOwM_v1v85YaqkH0q-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="zg0vOwM_v1v85YaqkH0q-1" target="zg0vOwM_v1v85YaqkH0q-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jVrLA1miX4F0RIQfp13S-4" value="Gửi KQ" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#ffe6cc;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;strokeColor=#d79b00;" parent="1" vertex="1">
@@ -642,7 +642,7 @@
         <mxCell id="jVrLA1miX4F0RIQfp13S-5" value="1. An Bien Br 20250529 - Spring.tcl&lt;div&gt;File chưa cập nhật gió, đã update spring→ So sánh spring&lt;/div&gt;" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="jVrLA1miX4F0RIQfp13S-4" vertex="1">
           <mxGeometry y="26" width="270" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="zg0vOwM_v1v85YaqkH0q-1" value="&lt;div&gt;2. An Bien Br 20250530 - Spring.tcl&lt;/div&gt;&lt;div&gt;Đã update cả gió và spring&lt;/div&gt;" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="jVrLA1miX4F0RIQfp13S-4">
+        <mxCell id="zg0vOwM_v1v85YaqkH0q-1" value="&lt;div&gt;2. An Bien Br 20250530 - Spring.tcl&lt;/div&gt;&lt;div&gt;Đã update cả gió và spring&lt;/div&gt;" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="jVrLA1miX4F0RIQfp13S-4" vertex="1">
           <mxGeometry y="80" width="270" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jVrLA1miX4F0RIQfp13S-8" value="" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#ffe6cc;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;strokeColor=#d79b00;" parent="1" vertex="1">
@@ -675,13 +675,16 @@
         <mxCell id="jVrLA1miX4F0RIQfp13S-23" value="2050530" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="jVrLA1miX4F0RIQfp13S-12" vertex="1">
           <mxGeometry y="52" width="200" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="zg0vOwM_v1v85YaqkH0q-2" value="Sửa LL 20250531" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#f8cecc;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="tjO_JxrPeB7VJwAWp4ab-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zg0vOwM_v1v85YaqkH0q-2" target="tjO_JxrPeB7VJwAWp4ab-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zg0vOwM_v1v85YaqkH0q-2" value="Sửa LL 20250531" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#f8cecc;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="980" y="3770" width="210" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="zg0vOwM_v1v85YaqkH0q-3" value="Thay đổi tổ hợp LL:&lt;div&gt;SUPADDSUP → SUPANDSUP&lt;/div&gt;" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="zg0vOwM_v1v85YaqkH0q-2">
+        <mxCell id="zg0vOwM_v1v85YaqkH0q-3" value="Thay đổi tổ hợp LL:&lt;div&gt;SUPADDSUP → SUPANDSUP&lt;/div&gt;" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="zg0vOwM_v1v85YaqkH0q-2" vertex="1">
           <mxGeometry y="26" width="210" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="zg0vOwM_v1v85YaqkH0q-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="zg0vOwM_v1v85YaqkH0q-3">
+        <mxCell id="zg0vOwM_v1v85YaqkH0q-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="zg0vOwM_v1v85YaqkH0q-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2005" y="3710" as="targetPoint" />
             <Array as="points">
@@ -691,10 +694,16 @@
             <mxPoint x="1080" y="4380" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zg0vOwM_v1v85YaqkH0q-7" value="2. RM" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="zg0vOwM_v1v85YaqkH0q-6">
+        <mxCell id="zg0vOwM_v1v85YaqkH0q-7" value="2. RM" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" parent="zg0vOwM_v1v85YaqkH0q-6" vertex="1" connectable="0">
           <mxGeometry x="-0.984" y="1" relative="1" as="geometry">
             <mxPoint x="76" y="1" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="tjO_JxrPeB7VJwAWp4ab-1" value="Sửa 20250602" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#f8cecc;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="980" y="3900" width="210" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="tjO_JxrPeB7VJwAWp4ab-2" value="Thay đổi 2 liên kết vòm xuống bệ:&lt;div&gt;Lệch tâm → Spring 1e9&lt;/div&gt;&lt;div&gt;An Bien 20250602&lt;/div&gt;" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="tjO_JxrPeB7VJwAWp4ab-1">
+          <mxGeometry y="26" width="210" height="54" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
